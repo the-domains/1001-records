@@ -1,0 +1,28 @@
+name: 1001 Records
+favicon: null
+layout_spectrum: 0.9002508923877031
+typography_spectrum: 0.291488692862913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6230693843681365
+  lightness: 0.2956498328130692
+  saturation: 0.3858755046967417
+  rhythmicContrast: 0.9800163959152997
+purpose: []
